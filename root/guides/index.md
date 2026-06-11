@@ -12,7 +12,7 @@ These guides are maintained in Markdown and published automatically from the par
 
 ## Available guides
 
-* [Test Guide](./test-guide/test-guide.md)
+* [Test Guide](./test-guide)
 
 ## Notes
 
