@@ -1,7 +1,6 @@
 ---
 
 title: Parish IT Guides
-post_status: "private"
 
 ---
 
@@ -13,7 +12,7 @@ These guides are maintained in Markdown and published automatically from the par
 
 ## Available guides
 
-* [Guide to Posting Pews News](/guides/guide-to-posting-pews-news)
+* [Guide to Posting Pews News](/guides/01-pews-news-guide)
 * [Guide to Posting Evensong Event](/guides/guide-to-posting-evensong-event)
 
 ## Notes

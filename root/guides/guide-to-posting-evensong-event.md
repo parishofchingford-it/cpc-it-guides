@@ -1,7 +1,6 @@
 ---
 
 title: Guide to Posting Evensong Event
-post_status: "private"
 
 ---
 
