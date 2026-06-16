@@ -30,8 +30,8 @@ The detailed written steps below remain the primary reference, but the video may
 
 # 1. Upload the PDF
 
-1. Log into the <a href="https://parishofchingford.org.uk/wp-admin/" target="WP">website's WordPress editor</a> 
-2. Go to <a href="https://parishofchingford.org.uk/wp-admin/media-new.php" target="WP">Media → Add New Media File</a>.
+1. Log into the <a href="https://parishofchingford.org.uk/wp-admin/" target="CPC">website's WordPress editor</a> 
+2. Go to <a href="https://parishofchingford.org.uk/wp-admin/media-new.php" target="CPC">Media → Add New Media File</a>.
 3. Click **Select Files**
 4. Select the new Pews News PDF.
 
@@ -39,7 +39,7 @@ The detailed written steps below remain the primary reference, but the video may
 
 # 2. Create the post
 
-1. Go to <a href="https://parishofchingford.org.uk/wp-admin/post-new.php" target="WP">Posts → Add New Post</a>.
+1. Go to <a href="https://parishofchingford.org.uk/wp-admin/post-new.php" target="CPC">Posts → Add New Post</a>.
 2. Set the post title using the format: ```Pews News – Sunday 14 June 2026 – Second Sunday after Trinity```
 
 Adjust the date and liturgical occasion as appropriate.
